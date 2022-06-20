@@ -1,0 +1,17 @@
+
+
+Our goals with this is file will become fully clear once we have read through both 
+of the two documents which have been provided by FM; and we intend
+to make a bullet point list detailing exactly what needs to be done. 
+
+
+
+
+
+1. Configure your repository to publish your code to a web address, this can be be 
+done at a later stage, although it will help us receive feedback 
+from the broader FM community. Do this via github pages. 
+
+2. To submit the solution: read through this article: 
+(https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248)
+
