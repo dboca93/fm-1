@@ -69,6 +69,13 @@ sizing amendments have been made.
 @media screen and (max-width: 420px) {
 .main__container {
   width: 270px;
-  height: 75%;
+}
+
+.text__container h1 {
+  font-size: 17px;
+  font-weight: 625;
+}
+.text__container p {
+  font-size: 13.5px;
 }
 }
